@@ -1,0 +1,24 @@
+{
+  "name": "redis-app",
+  "version": "1.0.0",
+  "description": "An app built with Redis Stack and RedisOM(Nodejs)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redis",
+    "redis-om",
+    "nodejs"
+  ],
+  "author": "Tech Helper",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tech-Helper503/redis-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tech-Helper503/redis-app/issues"
+  },
+  "homepage": "https://github.com/Tech-Helper503/redis-app#readme"
+}
